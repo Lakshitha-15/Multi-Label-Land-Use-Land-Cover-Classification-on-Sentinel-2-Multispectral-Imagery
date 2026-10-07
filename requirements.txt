@@ -1,0 +1,6 @@
+pandas
+pyarrow
+numpy
+Pillow
+datasets
+torch
