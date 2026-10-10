@@ -1,0 +1,917 @@
+[
+  {
+    "split": "test",
+    "spatial_id": "T29UPU_35_48",
+    "dates": [
+      "2017-06-17",
+      "2017-11-12",
+      "2018-02-25",
+      "2018-04-21"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170617T113321_N9999_R080_T29UPU_35_48",
+      "S2B_MSIL2A_20171112T114339_N9999_R123_T29UPU_35_48",
+      "S2A_MSIL2A_20180225T114351_N9999_R123_T29UPU_35_48",
+      "S2B_MSIL2A_20180421T114349_N9999_R123_T29UPU_35_48"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "test",
+    "spatial_id": "T29UPU_52_28",
+    "dates": [
+      "2017-06-17",
+      "2017-11-12",
+      "2018-02-25",
+      "2018-04-21"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170617T113321_N9999_R080_T29UPU_52_28",
+      "S2B_MSIL2A_20171112T114339_N9999_R123_T29UPU_52_28",
+      "S2A_MSIL2A_20180225T114351_N9999_R123_T29UPU_52_28",
+      "S2B_MSIL2A_20180421T114349_N9999_R123_T29UPU_52_28"
+    ],
+    "labels_by_date": [
+      [
+        0,
+        7,
+        12,
+        15
+      ],
+      [
+        0,
+        7,
+        12,
+        15
+      ],
+      [
+        0,
+        7,
+        12,
+        15
+      ],
+      [
+        0,
+        7,
+        12,
+        15
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "agriculture_with_natural_vegetation",
+        "coniferous_forest",
+        "mixed_forest",
+        "pastures"
+      ],
+      [
+        "agriculture_with_natural_vegetation",
+        "coniferous_forest",
+        "mixed_forest",
+        "pastures"
+      ],
+      [
+        "agriculture_with_natural_vegetation",
+        "coniferous_forest",
+        "mixed_forest",
+        "pastures"
+      ],
+      [
+        "agriculture_with_natural_vegetation",
+        "coniferous_forest",
+        "mixed_forest",
+        "pastures"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "test",
+    "spatial_id": "T34TCR_27_24",
+    "dates": [
+      "2017-08-03",
+      "2017-10-02",
+      "2017-12-06",
+      "2018-04-30"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170803T094031_N9999_R036_T34TCR_27_24",
+      "S2A_MSIL2A_20171002T094031_N9999_R036_T34TCR_27_24",
+      "S2B_MSIL2A_20171206T094349_N9999_R036_T34TCR_27_24",
+      "S2A_MSIL2A_20180430T094031_N9999_R036_T34TCR_27_24"
+    ],
+    "labels_by_date": [
+      [
+        4,
+        9,
+        10,
+        17
+      ],
+      [
+        4,
+        9,
+        10,
+        17
+      ],
+      [
+        4,
+        9,
+        10,
+        17
+      ],
+      [
+        4,
+        9,
+        10,
+        17
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands",
+        "transitional_woodland_shrub"
+      ],
+      [
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands",
+        "transitional_woodland_shrub"
+      ],
+      [
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands",
+        "transitional_woodland_shrub"
+      ],
+      [
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands",
+        "transitional_woodland_shrub"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "test",
+    "spatial_id": "T34TCR_46_44",
+    "dates": [
+      "2017-08-03",
+      "2017-10-02",
+      "2017-12-06",
+      "2018-04-30"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170803T094031_N9999_R036_T34TCR_46_44",
+      "S2A_MSIL2A_20171002T094031_N9999_R036_T34TCR_46_44",
+      "S2B_MSIL2A_20171206T094349_N9999_R036_T34TCR_46_44",
+      "S2A_MSIL2A_20180430T094031_N9999_R036_T34TCR_46_44"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "test",
+    "spatial_id": "T34TCR_49_65",
+    "dates": [
+      "2017-08-03",
+      "2017-10-02",
+      "2017-12-06",
+      "2018-04-30"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170803T094031_N9999_R036_T34TCR_49_65",
+      "S2A_MSIL2A_20171002T094031_N9999_R036_T34TCR_49_65",
+      "S2B_MSIL2A_20171206T094349_N9999_R036_T34TCR_49_65",
+      "S2A_MSIL2A_20180430T094031_N9999_R036_T34TCR_49_65"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "broad_leaved_forest"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "train",
+    "spatial_id": "T29UPU_18_08",
+    "dates": [
+      "2017-06-17",
+      "2017-11-12",
+      "2018-02-25",
+      "2018-04-21"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170617T113321_N9999_R080_T29UPU_18_08",
+      "S2B_MSIL2A_20171112T114339_N9999_R123_T29UPU_18_08",
+      "S2A_MSIL2A_20180225T114351_N9999_R123_T29UPU_18_08",
+      "S2B_MSIL2A_20180421T114349_N9999_R123_T29UPU_18_08"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        15,
+        18
+      ],
+      [
+        2,
+        15,
+        18
+      ],
+      [
+        2,
+        15,
+        18
+      ],
+      [
+        2,
+        15,
+        18
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "pastures",
+        "urban_fabric"
+      ],
+      [
+        "arable_land",
+        "pastures",
+        "urban_fabric"
+      ],
+      [
+        "arable_land",
+        "pastures",
+        "urban_fabric"
+      ],
+      [
+        "arable_land",
+        "pastures",
+        "urban_fabric"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "train",
+    "spatial_id": "T29UPU_62_90",
+    "dates": [
+      "2017-06-17",
+      "2017-11-12",
+      "2018-02-25",
+      "2018-04-21"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170617T113321_N9999_R080_T29UPU_62_90",
+      "S2B_MSIL2A_20171112T114339_N9999_R123_T29UPU_62_90",
+      "S2A_MSIL2A_20180225T114351_N9999_R123_T29UPU_62_90",
+      "S2B_MSIL2A_20180421T114349_N9999_R123_T29UPU_62_90"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "train",
+    "spatial_id": "T31UER_80_25",
+    "dates": [
+      "2017-08-29",
+      "2017-11-07",
+      "2018-02-25",
+      "2018-05-06"
+    ],
+    "image_ids": [
+      "S2B_MSIL2A_20170829T105019_N9999_R051_T31UER_80_25",
+      "S2B_MSIL2A_20171107T105229_N9999_R051_T31UER_80_25",
+      "S2B_MSIL2A_20180225T105019_N9999_R051_T31UER_80_25",
+      "S2B_MSIL2A_20180506T105029_N9999_R051_T31UER_80_25"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        15
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "pastures"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "train",
+    "spatial_id": "T34TCR_57_86",
+    "dates": [
+      "2017-08-03",
+      "2017-10-02",
+      "2017-12-06",
+      "2018-04-30"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170803T094031_N9999_R036_T34TCR_57_86",
+      "S2A_MSIL2A_20171002T094031_N9999_R036_T34TCR_57_86",
+      "S2B_MSIL2A_20171206T094349_N9999_R036_T34TCR_57_86",
+      "S2A_MSIL2A_20180430T094031_N9999_R036_T34TCR_57_86"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        4,
+        6,
+        16
+      ],
+      [
+        2,
+        4,
+        6,
+        16
+      ],
+      [
+        2,
+        4,
+        6,
+        16
+      ],
+      [
+        2,
+        4,
+        6,
+        16
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns",
+        "permanent_crops"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns",
+        "permanent_crops"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns",
+        "permanent_crops"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns",
+        "permanent_crops"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "train",
+    "spatial_id": "T34WFS_80_34",
+    "dates": [
+      "2017-08-17",
+      "2017-09-06",
+      "2018-02-28",
+      "2018-05-21"
+    ],
+    "image_ids": [
+      "S2B_MSIL2A_20170817T101019_N9999_R022_T34WFS_80_34",
+      "S2B_MSIL2A_20170906T101019_N9999_R022_T34WFS_80_34",
+      "S2A_MSIL2A_20180228T101021_N9999_R022_T34WFS_80_34",
+      "S2B_MSIL2A_20180521T100029_N9999_R122_T34WFS_80_34"
+    ],
+    "labels_by_date": [
+      [
+        7,
+        12
+      ],
+      [
+        7,
+        12
+      ],
+      [
+        7,
+        12
+      ],
+      [
+        7,
+        12
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "coniferous_forest",
+        "mixed_forest"
+      ],
+      [
+        "coniferous_forest",
+        "mixed_forest"
+      ],
+      [
+        "coniferous_forest",
+        "mixed_forest"
+      ],
+      [
+        "coniferous_forest",
+        "mixed_forest"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "validation",
+    "spatial_id": "T29SND_15_56",
+    "dates": [
+      "2017-07-04",
+      "2017-11-21",
+      "2017-12-21",
+      "2018-05-15"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170704T112111_N9999_R037_T29SND_15_56",
+      "S2A_MSIL2A_20171121T112351_N9999_R037_T29SND_15_56",
+      "S2A_MSIL2A_20171221T112501_N9999_R037_T29SND_15_56",
+      "S2B_MSIL2A_20180515T112109_N9999_R037_T29SND_15_56"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        4,
+        6
+      ],
+      [
+        2,
+        4,
+        6
+      ],
+      [
+        2,
+        4,
+        6
+      ],
+      [
+        2,
+        4,
+        6
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "complex_cultivation_patterns"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "validation",
+    "spatial_id": "T29SND_21_16",
+    "dates": [
+      "2017-07-04",
+      "2017-11-21",
+      "2017-12-21",
+      "2018-05-15"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170704T112111_N9999_R037_T29SND_21_16",
+      "S2A_MSIL2A_20171121T112351_N9999_R037_T29SND_21_16",
+      "S2A_MSIL2A_20171221T112501_N9999_R037_T29SND_21_16",
+      "S2B_MSIL2A_20180515T112109_N9999_R037_T29SND_21_16"
+    ],
+    "labels_by_date": [
+      [
+        7,
+        12,
+        13,
+        16,
+        17,
+        18
+      ],
+      [
+        7,
+        12,
+        13,
+        16,
+        17,
+        18
+      ],
+      [
+        7,
+        12,
+        13,
+        16,
+        17,
+        18
+      ],
+      [
+        7,
+        12,
+        13,
+        16,
+        17,
+        18
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "coniferous_forest",
+        "mixed_forest",
+        "moors_heathland_sclerophyllous_vegetation",
+        "permanent_crops",
+        "transitional_woodland_shrub",
+        "urban_fabric"
+      ],
+      [
+        "coniferous_forest",
+        "mixed_forest",
+        "moors_heathland_sclerophyllous_vegetation",
+        "permanent_crops",
+        "transitional_woodland_shrub",
+        "urban_fabric"
+      ],
+      [
+        "coniferous_forest",
+        "mixed_forest",
+        "moors_heathland_sclerophyllous_vegetation",
+        "permanent_crops",
+        "transitional_woodland_shrub",
+        "urban_fabric"
+      ],
+      [
+        "coniferous_forest",
+        "mixed_forest",
+        "moors_heathland_sclerophyllous_vegetation",
+        "permanent_crops",
+        "transitional_woodland_shrub",
+        "urban_fabric"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "validation",
+    "spatial_id": "T29UPU_23_22",
+    "dates": [
+      "2017-06-17",
+      "2017-11-12",
+      "2018-02-25",
+      "2018-04-21"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170617T113321_N9999_R080_T29UPU_23_22",
+      "S2B_MSIL2A_20171112T114339_N9999_R123_T29UPU_23_22",
+      "S2A_MSIL2A_20180225T114351_N9999_R123_T29UPU_23_22",
+      "S2B_MSIL2A_20180421T114349_N9999_R123_T29UPU_23_22"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        12,
+        15
+      ],
+      [
+        2,
+        12,
+        15
+      ],
+      [
+        2,
+        12,
+        15
+      ],
+      [
+        2,
+        12,
+        15
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "mixed_forest",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "mixed_forest",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "mixed_forest",
+        "pastures"
+      ],
+      [
+        "arable_land",
+        "mixed_forest",
+        "pastures"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "validation",
+    "spatial_id": "T34TCR_35_14",
+    "dates": [
+      "2017-08-03",
+      "2017-10-02",
+      "2017-12-06",
+      "2018-04-30"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170803T094031_N9999_R036_T34TCR_35_14",
+      "S2A_MSIL2A_20171002T094031_N9999_R036_T34TCR_35_14",
+      "S2B_MSIL2A_20171206T094349_N9999_R036_T34TCR_35_14",
+      "S2A_MSIL2A_20180430T094031_N9999_R036_T34TCR_35_14"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        17
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "transitional_woodland_shrub"
+      ],
+      [
+        "arable_land",
+        "transitional_woodland_shrub"
+      ],
+      [
+        "arable_land",
+        "transitional_woodland_shrub"
+      ],
+      [
+        "arable_land",
+        "transitional_woodland_shrub"
+      ]
+    ],
+    "labels_consistent": true
+  },
+  {
+    "split": "validation",
+    "spatial_id": "T34TCR_75_75",
+    "dates": [
+      "2017-08-03",
+      "2017-10-02",
+      "2017-12-06",
+      "2018-04-30"
+    ],
+    "image_ids": [
+      "S2A_MSIL2A_20170803T094031_N9999_R036_T34TCR_75_75",
+      "S2A_MSIL2A_20171002T094031_N9999_R036_T34TCR_75_75",
+      "S2B_MSIL2A_20171206T094349_N9999_R036_T34TCR_75_75",
+      "S2A_MSIL2A_20180430T094031_N9999_R036_T34TCR_75_75"
+    ],
+    "labels_by_date": [
+      [
+        2,
+        4,
+        9,
+        10
+      ],
+      [
+        2,
+        4,
+        9,
+        10
+      ],
+      [
+        2,
+        4,
+        9,
+        10
+      ],
+      [
+        2,
+        4,
+        9,
+        10
+      ]
+    ],
+    "label_names_by_date": [
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands"
+      ],
+      [
+        "arable_land",
+        "broad_leaved_forest",
+        "inland_waters",
+        "inland_wetlands"
+      ]
+    ],
+    "labels_consistent": true
+  }
+]

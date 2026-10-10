@@ -1,0 +1,21 @@
+{
+  "project": "Multi-Label Temporal LULC Classification",
+  "expected_classes": 19,
+  "expected_observations_per_sequence": 4,
+  "parquet_shards_scanned": 64,
+  "indexed_observations": 480038,
+  "eligible_observations": 120044,
+  "eligible_locations_by_split": {
+    "train": 14812,
+    "validation": 7703,
+    "test": 7496
+  },
+  "located_observations": 120044,
+  "valid_sequences": 30011,
+  "manifest_observations": 120044,
+  "label_mismatch_count": 0,
+  "sequence_error_count": 0,
+  "label_mismatch_examples": [],
+  "sequence_error_examples": [],
+  "status": "passed"
+}

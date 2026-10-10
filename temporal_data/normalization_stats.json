@@ -1,0 +1,51 @@
+{
+  "dataset": "BigEarthNet-v2",
+  "split_used": "train",
+  "observations_used": 59248,
+  "locations_used": 14812,
+  "image_height": 120,
+  "image_width": 120,
+  "band_order": [
+    "B02",
+    "B03",
+    "B04",
+    "B08",
+    "B11",
+    "B12"
+  ],
+  "rgb_band_note": "B02, B03, B04 originate from the stored 8-bit tone-mapped RGB image.",
+  "swir_resize": "B11 and B12 resized to 120x120 using bilinear interpolation, align_corners=False.",
+  "statistic": "population mean and population standard deviation",
+  "bands": {
+    "B02": {
+      "mean": 99.29787737560761,
+      "std": 27.8932129403095,
+      "pixel_count": 853171200
+    },
+    "B03": {
+      "mean": 120.84880908661708,
+      "std": 28.819955677026176,
+      "pixel_count": 853171200
+    },
+    "B04": {
+      "mean": 120.71536975697258,
+      "std": 39.293619647922156,
+      "pixel_count": 853171200
+    },
+    "B08": {
+      "mean": 2493.7701777533043,
+      "std": 1216.542922844322,
+      "pixel_count": 853171200
+    },
+    "B11": {
+      "mean": 2177.096093665609,
+      "std": 1079.0137124365474,
+      "pixel_count": 853171200
+    },
+    "B12": {
+      "mean": 1463.2235964270712,
+      "std": 873.9539810938307,
+      "pixel_count": 853171200
+    }
+  }
+}
