@@ -1,0 +1,3 @@
+experiment,best_epoch,epochs_trained,best_validation_loss,validation_macro_f1,validation_micro_f1,validation_mAP,validation_classes_in_mAP
+Single-date baseline,104,116,0.6762621998786926,0.5014800228818121,0.6039364818335988,0.5204864100725072,19
+Four-date feature averaging,177,189,0.6417747735977173,0.5189423352928327,0.6197158875932997,0.5466253906778299,19

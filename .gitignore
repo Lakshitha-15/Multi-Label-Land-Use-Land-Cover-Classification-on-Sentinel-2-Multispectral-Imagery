@@ -45,3 +45,16 @@ Thumbs.db
 # Local environment files
 .env
 .env.*
+
+
+# Generated feature caches
+temporal_data/full_feature_cache/
+
+# Generated sample tensors
+temporal_data/sample_tensors/*.npy
+# Generated feature caches
+temporal_data/full_feature_cache/
+temporal_data/pilot_feature_cache/
+
+# Generated sample tensors
+temporal_data/sample_tensors/*.npy
