@@ -1,0 +1,13 @@
+{
+    "test_loss": 0.6363414166894769,
+    "macro_f1": 0.41011382430234,
+    "micro_f1": 0.5866581889471733,
+    "mAP": 0.429775281166485,
+    "classes_in_mAP": 19,
+    "threshold": 0.5,
+    "experiment": "Learned temporal attention",
+    "seed": 2026,
+    "best_epoch": 2,
+    "best_validation_loss": 0.6516224655039694,
+    "trainable_parameters": 40980
+}
