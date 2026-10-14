@@ -1,0 +1,12 @@
+{
+    "experiment": "GRU temporal classifier",
+    "seed": 2026,
+    "best_epoch": 5,
+    "best_validation_loss": 0.6994298090180159,
+    "test_loss": 0.6645612779968958,
+    "macro_f1": 0.38546412025736926,
+    "micro_f1": 0.5780970116165647,
+    "mAP": 0.4053755854948532,
+    "classes_in_mAP": 19,
+    "threshold": 0.5
+}

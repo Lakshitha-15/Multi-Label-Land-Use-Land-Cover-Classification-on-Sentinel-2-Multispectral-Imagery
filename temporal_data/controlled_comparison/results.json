@@ -1,0 +1,20 @@
+{
+  "uniform_average": {
+    "best_epoch": 250,
+    "best_validation_loss": 0.7466248869895935,
+    "test_loss": 0.7417117357254028,
+    "macro_f1": 0.36544365928909467,
+    "micro_f1": 0.49722261384463556,
+    "mAP": 0.4547566757331396,
+    "threshold": 0.5
+  },
+  "temporal_attention": {
+    "best_epoch": 65,
+    "best_validation_loss": 0.6847513318061829,
+    "test_loss": 0.6694061160087585,
+    "macro_f1": 0.3884252046515334,
+    "micro_f1": 0.5668140999865969,
+    "mAP": 0.411667603225226,
+    "threshold": 0.5
+  }
+}
